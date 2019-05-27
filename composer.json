@@ -1,5 +1,5 @@
 {
-  "name": "yukon-pasindujayanath/xmlseclibs",
+  "name": "yukonpasindujayanath/xmlseclibs",
   "description": "A PHP library for XML Security",
   "license": "BSD-3-Clause",
   "keywords": [
@@ -8,10 +8,10 @@
     "signature",
     "security"
   ],
-  "homepage": "https://github.com/yukon-pasindujayanath/xmlseclibs",
+  "homepage": "https://github.com/yukonpasindujayanath/xmlseclibs",
   "autoload": {
     "psr-4": {
-      "yukon-pasindujayanath\\XMLSecLibs\\": "src"
+      "yukonpasindujayanath\\XMLSecLibs\\": "src"
     }
   },
   "require": {
