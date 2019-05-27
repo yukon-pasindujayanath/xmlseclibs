@@ -11,7 +11,7 @@
   "homepage": "https://github.com/yukonpasindujayanath/xmlseclibs",
   "autoload": {
     "psr-4": {
-      "Yukonpasindujayanath\\XMLSecLibs\\": "src"
+      "RobRichards\\XMLSecLibs\\": "src"
     }
   },
   "require": {
